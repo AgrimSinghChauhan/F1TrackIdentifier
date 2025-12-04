@@ -51,7 +51,7 @@ A comprehensive AI-powered application that identifies Formula 1 circuits from i
 
 ### Running the Application
 ```bash
-python f1_circuit_gui.py
+python f1_circuit_image_analyser.py
 ```
 
 ## 📋 Usage Guide
