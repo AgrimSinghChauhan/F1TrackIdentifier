@@ -1,0 +1,25 @@
+circuit_name,grand_prix_name,country,city_region,on_2023,on_2024,on_2025
+Bahrain International Circuit,Bahrain Grand Prix,Bahrain,Sakhir,True,True,True
+Jeddah Corniche Circuit,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,True,True,True
+Albert Park Circuit,Australian Grand Prix,Australia,Melbourne,True,True,True
+Baku City Circuit,Azerbaijan Grand Prix,Azerbaijan,Baku,True,False,True
+Miami International Autodrome,Miami Grand Prix,United States,"Miami Gardens, Florida",True,True,True
+Autodromo Enzo e Dino Ferrari,Emilia-Romagna Grand Prix,Italy,Imola,False,True,True
+Circuit de Monaco,Monaco Grand Prix,Monaco,Monte Carlo,True,True,True
+Circuit de Barcelona-Catalunya,Spanish Grand Prix,Spain,"Montmeló, Barcelona",True,True,True
+Circuit Gilles Villeneuve,Canadian Grand Prix,Canada,Montreal,True,True,True
+Red Bull Ring,Austrian Grand Prix,Austria,Spielberg,True,True,True
+Silverstone Circuit,British Grand Prix,United Kingdom,"Silverstone, Northamptonshire",True,True,True
+Hungaroring,Hungarian Grand Prix,Hungary,Mogyoród (near Budapest),True,True,True
+Circuit de Spa-Francorchamps,Belgian Grand Prix,Belgium,Stavelot,True,True,True
+Circuit Zandvoort,Dutch Grand Prix,Netherlands,Zandvoort,True,True,True
+Autodromo Nazionale Monza,Italian Grand Prix,Italy,Monza,True,True,True
+Marina Bay Street Circuit,Singapore Grand Prix,Singapore,"Marina Bay, Singapore",True,True,True
+Suzuka International Racing Course,Japanese Grand Prix,Japan,"Suzuka, Mie",True,True,True
+Lusail International Circuit,Qatar Grand Prix,Qatar,"Lusail, Al Daayen",True,True,True
+Circuit of the Americas,United States Grand Prix,United States,"Austin, Texas",True,True,True
+Autódromo Hermanos Rodríguez,Mexico City Grand Prix,Mexico,Mexico City,True,True,True
+Autódromo José Carlos Pace,São Paulo Grand Prix,Brazil,São Paulo (Interlagos),True,True,True
+Las Vegas Strip Circuit,Las Vegas Grand Prix,United States,"Paradise / Las Vegas, Nevada",True,True,True
+Yas Marina Circuit,Abu Dhabi Grand Prix,United Arab Emirates,"Yas Island, Abu Dhabi",True,True,True
+Shanghai International Circuit,Chinese Grand Prix,China,"Jiading, Shanghai",False,True,True
